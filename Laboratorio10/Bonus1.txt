@@ -1,0 +1,8 @@
+BONUS 1:
+el error que presenta el archivo dll es que la clase persona para que se pueda crear necesita 2 parientes que tambien son personas,
+ pero para esto tienen que ya estar creados esos dos parientes como personas pero para poder crearlos a ellos tambien necesitare sus 2 parientes
+y asi sucesivamente, por lo que cualquier persona que quiera crear no sera posible realizarse a menos que ya esten creadas dos personas con anterioridad 
+que sean sus 2 parientes, en este caso no se podra correr nunca el programa a menos que creemos esas dos personas.
+porque de no ser asi nunca podremos crear una persona.
+Como estamos en el caso de que no se puede crear una persona no se podran crear ni propiedades ni automoviles 
+ya que estas necesitan una persona para crearse y estas no existen, por lo que al correr el programa tira error.
